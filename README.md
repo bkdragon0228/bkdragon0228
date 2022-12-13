@@ -6,7 +6,7 @@
   
 ---
 
-<a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/bkdragon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
