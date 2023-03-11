@@ -16,10 +16,9 @@
 ## LINK 
 <a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/bkdragon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-<a href="https://bkdragon0228.tistory.com/"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg></a>
-  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+ 
 <!--
 **bkdragon0228/bkdragon0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
