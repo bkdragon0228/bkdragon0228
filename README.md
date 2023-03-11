@@ -11,7 +11,7 @@
 
 ## LINK 
 <a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/bkdragon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://bkdragon0228.tistory.com/"><img src="https://img.shields.io/badge/bkdragon's log-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://bkdragon0228.tistory.com/"><img src="https://img.shields.io/badge/bkdragon's log-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 ## status
