@@ -1,7 +1,8 @@
 
   
 ## 😊 bkdragon 
-  
+
+want to be web front-end developer. 
 
 ## Tech  
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
