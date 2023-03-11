@@ -2,20 +2,17 @@
   
 ## 😊 bkdragon 
   
----
+
 ## Tech  
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-
----
 
 ## LINK 
 <a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/bkdragon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://bkdragon0228.tistory.com/"><img src="https://img.shields.io/badge/bkdragon's log-000000?style=flat-square&logo=Velog&logoColor=white"/></a>
 
----
 
 ## status
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkdragon0228&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
