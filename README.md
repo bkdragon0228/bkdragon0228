@@ -15,6 +15,9 @@
 <a href="https://velog.io/@bkdragon0228"><img src="https://img.shields.io/badge/bkdragon.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkdragon0228&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
  
 <!--
