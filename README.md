@@ -29,7 +29,10 @@ I see development as a service industry and prioritize user experience above all
 </a>
 
 ## status
+<!--
 ![Bkdragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkdragon0228&show_icons=true&theme=tokyonight)
+ -->
+![Bkdragon's GitHub stats](https://github-readme-stats-seven-fawn-79.vercel.app/api?username=bkdragon0228&show_icons=true&theme=tokyonight)
 
 ## Experience
 
